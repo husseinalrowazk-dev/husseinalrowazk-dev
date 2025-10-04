@@ -5,7 +5,7 @@ Full Stack Developer | Project Management | Data Engineering | AI Enthusiast
 ---
 
 ## 🧑‍💻 About Me
-I am **Hussein Alrowazk**, a professional Full Stack Developer with extensive experience in web and mobile application development, project management, and data engineering. I am currently enhancing my skills in **Artificial Intelligence** to create innovative and practical solutions.
+I am **Hussein Al-Rawaziq**, a Full Stack Developer with extensive experience in web and mobile application development, project management, and data engineering. I am currently enhancing my skills in **Artificial Intelligence** to create innovative and practical solutions.
 
 ---
 
