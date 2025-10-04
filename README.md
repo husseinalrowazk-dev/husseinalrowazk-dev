@@ -1,4 +1,4 @@
-# Hussein Alrowazk | حسين الروازق
+# Hussein Al-Rawaziq | حسين الروازق
 
 Full Stack Developer | Project Management | Data Engineering | AI Enthusiast
 
